@@ -10,6 +10,7 @@
 
 ## Administrivia
 
+### Course Info
 
 |**Course**|EECS 582, Winter 2022, 4 credits |
 | :- | :- |
@@ -21,6 +22,30 @@
 |**Paper reviews**|<p><https://eecs582.eecs.umich.edu/papers/> **(Create an account ASAP!)**</p><p>To submit a review after logging in, click “start new paper” and enter the title of the paper. Attach your review as a PDF file according to the [format](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) (there are a variety of tools to convert markdown to PDF). Put your name and your umich email as the author. Affiliation and abstract don’t matter.</p>|
 |**Recordings**|Course lectures may be audio/video recorded and made available to other students in this course. As part of your participation in this course, you may be recorded.|
 
+### Grading
+
+| Paper Reviews                                         | 20% |
+| :- | :- |
+|**Presentations (paper presentations + midterm + final)**|**15%**|
+|**Class Participation**|**10%**|
+|**Project (prototype)**|**45%**|
+|**Project (final paper)**|**10%**|
+
+
+- Paper Reviews: You can miss 4 reviews with no penalty. Afterwards, each miss beyond that will result in 25% decrease (i.e., 5% out of the 20% alloted for the Paper Reviews component) in grade for this portion of the course. Missing eight or more paper reviews will result in getting 0% out of the 20% possible for the Paper Reviews component.
+- See the first set of lecture slides (link coming soon) for more details
+
+
+### Project Milestones
+
+|     Date             |     Milestone                             |     Details                                                                                         |
+|----------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|     Jan   11/ASAP    |     Find   project partners               |     Find   2-3 like-minded students                                                                 |
+|     Jan   13         |     Contact   project supervisor/staff    |     Email   the supervising PhD students OR   email EECS 582 staff with your group’s proposal       |
+|     Jan   21         |     Finalize   deliverables               |     After   regular back-and-forth   discussions with the project supervisors                       |
+|     Feb   22–25      |     Mid-semester   presentations          |     Define and motivate the problem, survey   related work, and form initial hypothesis and idea    |
+|     Apr   19         |     Video   presentations                 |     Record   a presentation of your findings                                                        |
+|     Apr   28         |     Research   paper                      |     Submit a project paper like the ones   we’ve read                                               |
 
 ## Schedule
 
