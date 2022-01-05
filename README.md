@@ -15,7 +15,7 @@
 |**Course**|EECS 582, Winter 2022, 4 credits |
 | :- | :- |
 |**Meetings**|<p>1010 DOW T/Th: 12:00–1:30 PM (Lectures/Discussion, for the first 3 lectures, rest will be presentations)</p><p>(When we do meet on Fridays, it will be at 3150 DOW, 1:30–2:30PM)</p>|
-|**Instructors**|Tanvir Ahmed Khan, Ian Neal |
+|**Instructors**|[Tanvir Ahmed Khan](https://web.eecs.umich.edu/~takh/), [Ian Neal](https://about.iangneal.io) |
 |**GSI**|Gefei Zuo|
 |**Contact**|<eecs582-staff@umich.edu>|
 |**Office hours**|Zoom, by appointment only|
