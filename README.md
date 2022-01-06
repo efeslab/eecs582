@@ -16,7 +16,7 @@
 | :- | :- |
 |**Meetings**|<p>1010 DOW T/Th: 12:00–1:30 PM (Lectures/Discussion, for the first 3 lectures, rest will be presentations)</p><p>(When we do meet on Fridays, it will be at 3150 DOW, 1:30–2:30PM)</p>|
 |**Live-Stream**|<p>**Please come in person if you are able.** However, if you cannot due to safety concerns, etc., you can join the live-stream on this [Zoom meeting](https://umich.zoom.us/j/97838896677). Note, you must be logged into Zoom using your UMich credentials.</p>|
-|**Recordings**|Course lectures will be audio/video recorded and made available to other students in this course. As part of your participation in this course, you may be recorded.|
+|**[Recordings](https://leccap.engin.umich.edu/leccap/site/hfqi73bp8h3o440ss46)**|Course lectures will be audio/video recorded and made available to other students in this course. As part of your participation in this course, you may be recorded.|
 |**Instructors**|[Tanvir Ahmed Khan](https://web.eecs.umich.edu/~takh/), [Ian Neal](https://about.iangneal.io) |
 |**GSI**|Gefei Zuo|
 |**Contact**|<eecs582-staff@umich.edu>|
