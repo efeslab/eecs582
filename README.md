@@ -4,7 +4,7 @@
 
 |Date| Note|
 | :- | :- |
-|**01/06**|<p>- Fill in [the EECS 582 Student Information form](https://docs.google.com/forms/d/e/1FAIpQLSeNnGuJ6VbzVFS5LENLEjo_bG5O10PNMVigqCFtkF1HxyQAxQ/viewform?usp=sf_link)</p><p>- You will receive an invitation to join the 582 slack channel after creating an account on the paper-review website (see the “Paper reviews” below)</p><p>- Final paper templates: <https://www.usenix.org/conferences/author-resources/paper-templates></p>|
+|**01/06**|<p>- Fill in [the EECS 582 Student Information form](https://docs.google.com/forms/d/e/1FAIpQLSeNnGuJ6VbzVFS5LENLEjo_bG5O10PNMVigqCFtkF1HxyQAxQ/viewform?usp=sf_link)</p><p>- You will receive an invitation to join the 582 slack channel after creating an account on the paper-review website (see the “Paper reviews” below)</p><p>- Final paper templates: <https://www.usenix.org/conferences/author-resources/paper-templates></p><p>We did not have a live-stream for today's lecture, but we will endeavor to have a live-stream for all future lectures. [Join this Zoom meeting](https://umich.zoom.us/j/97838896677) to watch the live-stream (you must login using UMich SSO).</p>|
 |**01/11**|- You can use [this document](https://docs.google.com/document/d/1sRoTSKAlXwpV6KzaxUQbJbTxPwrHfn9-RCUw_Pp31r4/edit?usp=sharing) to discuss your background and interests (with the ultimate goal of finding some team members!)|
 
 
@@ -15,7 +15,8 @@
 |**Course**|EECS 582, Winter 2022, 4 credits |
 | :- | :- |
 |**Meetings**|<p>1010 DOW T/Th: 12:00–1:30 PM (Lectures/Discussion, for the first 3 lectures, rest will be presentations)</p><p>(When we do meet on Fridays, it will be at 3150 DOW, 1:30–2:30PM)</p>|
-|**Recordings**|Course lectures will be audio/video recorded and made available to other students in this course (but we currently do not provide lecture live streaming). As part of your participation in this course, you may be recorded.|
+|**Live-Stream**|<p>**Please come in person if you are able.** However, if you cannot due to safety concerns, etc., you can join the live-stream on this [Zoom meeting](https://umich.zoom.us/j/97838896677). Note, you must be logged into Zoom using your UMich credentials.</p>|
+|**Recordings**|Course lectures will be audio/video recorded and made available to other students in this course. As part of your participation in this course, you may be recorded.|
 |**Instructors**|[Tanvir Ahmed Khan](https://web.eecs.umich.edu/~takh/), [Ian Neal](https://about.iangneal.io) |
 |**GSI**|Gefei Zuo|
 |**Contact**|<eecs582-staff@umich.edu>|
