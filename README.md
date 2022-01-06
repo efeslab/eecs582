@@ -15,12 +15,12 @@
 |**Course**|EECS 582, Winter 2022, 4 credits |
 | :- | :- |
 |**Meetings**|<p>1010 DOW T/Th: 12:00–1:30 PM (Lectures/Discussion, for the first 3 lectures, rest will be presentations)</p><p>(When we do meet on Fridays, it will be at 3150 DOW, 1:30–2:30PM)</p>|
+|**Recordings**|Course lectures will be audio/video recorded and made available to other students in this course (but we currently do not provide lecture live streaming). As part of your participation in this course, you may be recorded.|
 |**Instructors**|[Tanvir Ahmed Khan](https://web.eecs.umich.edu/~takh/), [Ian Neal](https://about.iangneal.io) |
 |**GSI**|Gefei Zuo|
 |**Contact**|<eecs582-staff@umich.edu>|
 |**Office hours**|Zoom, by appointment only|
 |**Paper reviews**|<p><https://eecs582.eecs.umich.edu/papers/> **(Create an account ASAP!)**</p><p>To submit a review after logging in, click “start new paper” and enter the title of the paper. Attach your review as a PDF file according to the [format](https://gist.github.com/kasikci/49e7107dfdee281d6f6450b132555550) (there are a variety of tools to convert markdown to PDF). Put your name and your umich email as the author. Affiliation and abstract don’t matter.</p>|
-|**Recordings**|Course lectures may be audio/video recorded and made available to other students in this course. As part of your participation in this course, you may be recorded.|
 
 ### Grading
 
