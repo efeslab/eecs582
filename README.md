@@ -5,7 +5,9 @@
 |Date| Note|
 | :- | :- |
 |**01/06**|<p>- Fill in [the EECS 582 Student Information form](https://docs.google.com/forms/d/e/1FAIpQLSeNnGuJ6VbzVFS5LENLEjo_bG5O10PNMVigqCFtkF1HxyQAxQ/viewform?usp=sf_link)</p><p>- You will receive an invitation to join the 582 slack channel after creating an account on the paper-review website (see the “Paper reviews” below)</p><p>- Final paper templates: <https://www.usenix.org/conferences/author-resources/paper-templates></p><p>We did not have a live-stream for today's lecture, but we will endeavor to have a live-stream for all future lectures. [Join this Zoom meeting](https://umich.zoom.us/j/97838896677) to watch the live-stream (you must login using UMich SSO).</p>|
-|**01/11**|- You can use [this document](https://docs.google.com/document/d/1sRoTSKAlXwpV6KzaxUQbJbTxPwrHfn9-RCUw_Pp31r4/edit?usp=sharing) to discuss your background and interests (with the ultimate goal of finding some team members!)|
+|**01/06**|You can use [this document](https://docs.google.com/document/d/1sRoTSKAlXwpV6KzaxUQbJbTxPwrHfn9-RCUw_Pp31r4/edit?usp=sharing) to discuss your background and interests (with the ultimate goal of finding some team members!)|
+|**01/09**|Please check [Presentation Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vQS5MSkzCGxqS8_PJkHxmm1hq97i609zl48RLsF0Os3BbQUX0vE0zDsZoXxAj_ovKFWtnFRd9tclrYF/pubhtml?gid=54539822&single=true) and start preparing for the paper presentation assigned to you. If your preferences cannot be fulfilled, please fill another "Student Information form" with new preferences. Remember that papers are assigned to students at a first-come-first-serve manner.|
+|**01/09**|Please check [Project Availability](https://docs.google.com/spreadsheets/d/e/2PACX-1vQS5MSkzCGxqS8_PJkHxmm1hq97i609zl48RLsF0Os3BbQUX0vE0zDsZoXxAj_ovKFWtnFRd9tclrYF/pubhtml?gid=184304098&single=true), a project will be marked as "FULL" when enough (determined by the project supervisor) students signed up for it. Start talking to project supervisors and finding your teammates! Rember to email us with your teammates CCed to sign up for a project.|
 
 
 ## Administrivia
