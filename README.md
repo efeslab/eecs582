@@ -44,7 +44,7 @@
 |     Date             |     Milestone                             |     Details                                                                                         |
 |----------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------|
 |     Jan   11/ASAP    |     Find   project partners               |     Find   2-3 like-minded students                                                                 |
-|     Jan   13         |     Contact   project supervisor/staff    |     Email   the supervising PhD students AND   email EECS 582 staff with your group’s proposal       |
+|     Jan   13         |     Contact   project supervisor/staff    |     Email   the supervising PhD students OR email EECS 582 staff with your group’s proposal       |
 |     Jan   21         |     Finalize   deliverables               |     After   regular back-and-forth   discussions with the project supervisors                       |
 |     Feb   22–25      |     Mid-semester   presentations          |     Define and motivate the problem, survey   related work, and form initial hypothesis and idea    |
 |     Apr   19         |     Video   presentations                 |     Record   a presentation of your findings                                                        |
