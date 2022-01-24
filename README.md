@@ -8,7 +8,7 @@
 |**01/06**|You can use [this document](https://docs.google.com/document/d/1sRoTSKAlXwpV6KzaxUQbJbTxPwrHfn9-RCUw_Pp31r4/edit?usp=sharing) to discuss your background and interests (with the ultimate goal of finding some team members!)|
 |**01/09**|Please check [Presentation Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vQS5MSkzCGxqS8_PJkHxmm1hq97i609zl48RLsF0Os3BbQUX0vE0zDsZoXxAj_ovKFWtnFRd9tclrYF/pubhtml?gid=54539822) and start preparing for the paper presentation assigned to you. If your preferences cannot be fulfilled, please fill another "Student Information form" with new preferences. Remember that papers are assigned to students at a first-come-first-serve manner.|
 |**01/09**|Please check [Project Availability](https://docs.google.com/spreadsheets/d/e/2PACX-1vQS5MSkzCGxqS8_PJkHxmm1hq97i609zl48RLsF0Os3BbQUX0vE0zDsZoXxAj_ovKFWtnFRd9tclrYF/pubhtml?gid=184304098&single=true), a project will be marked as "FULL" when enough (determined by the project supervisor) students signed up for it. Start talking to project supervisors and finding your teammates! Rember to email us with your teammates CCed to sign up for a project.|
-|**01/23**|<p>Please check the main course Slack channel (eecs582-winter22) for information on asking questions to be discussed after paper presentations.</p><p>We added a discussion slide template (with some tips on leading/participating in discussions), available [here](https://docs.google.com/presentation/d/1R2YPja3NSDXA97PNjX9AzB_ddS-YeaVoHBkkbKym6ZA/edit?usp=sharing).</p>|
+|**01/24**|<p>Please check the main course Slack channel (eecs582-winter22) for information on asking questions to be discussed after paper presentations.</p><p>We added a discussion slide template (with some tips on leading/participating in discussions), available [here](https://docs.google.com/presentation/d/1R2YPja3NSDXA97PNjX9AzB_ddS-YeaVoHBkkbKym6ZA/edit?usp=sharing).</p><p>We're going to be creating discussion threads per paper on Slack for you to ask questions that you'd like to have discussed or answered after the presentation. You can also ask questions for discussion anonymously through [this Google Form](https://forms.gle/Robqykue8PRBNXc69).</p>|
 
 
 ## Administrivia
@@ -37,7 +37,7 @@
 
 
 - Paper Reviews: You can miss 4 reviews with no penalty. Afterwards, each miss beyond that will result in 25% decrease (i.e., 5% out of the 20% alloted for the Paper Reviews component) in grade for this portion of the course. Missing eight or more paper reviews will result in getting 0% out of the 20% possible for the Paper Reviews component.
-- Paper Presentations: we have a template for discussion questions (and some tips on leading/participating in paper discussions) [here](https://docs.google.com/presentation/d/1R2YPja3NSDXA97PNjX9AzB_ddS-YeaVoHBkkbKym6ZA/edit?usp=sharing).
+- Paper Presentations: we have a template for discussion questions (and some tips on leading/participating in paper discussions) [here](https://docs.google.com/presentation/d/1R2YPja3NSDXA97PNjX9AzB_ddS-YeaVoHBkkbKym6ZA/edit?usp=sharing). You can ask discussion questions on slack and anonymous questions for discussion [here](https://forms.gle/Robqykue8PRBNXc69).
 - See the first set of lecture slides (link coming soon) for more details.
 
 
