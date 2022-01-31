@@ -9,6 +9,7 @@
 |**01/09**|Please check [Presentation Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vQS5MSkzCGxqS8_PJkHxmm1hq97i609zl48RLsF0Os3BbQUX0vE0zDsZoXxAj_ovKFWtnFRd9tclrYF/pubhtml?gid=54539822) and start preparing for the paper presentation assigned to you. If your preferences cannot be fulfilled, please fill another "Student Information form" with new preferences. Remember that papers are assigned to students at a first-come-first-serve manner.|
 |**01/09**|Please check [Project Availability](https://docs.google.com/spreadsheets/d/e/2PACX-1vQS5MSkzCGxqS8_PJkHxmm1hq97i609zl48RLsF0Os3BbQUX0vE0zDsZoXxAj_ovKFWtnFRd9tclrYF/pubhtml?gid=184304098&single=true), a project will be marked as "FULL" when enough (determined by the project supervisor) students signed up for it. Start talking to project supervisors and finding your teammates! Rember to email us with your teammates CCed to sign up for a project.|
 |**01/24**|<p>Please check the main course Slack channel (eecs582-winter22) for information on asking questions to be discussed after paper presentations.</p><p>We added a discussion slide template (with some tips on leading/participating in discussions), available [here](https://docs.google.com/presentation/d/1R2YPja3NSDXA97PNjX9AzB_ddS-YeaVoHBkkbKym6ZA/edit?usp=sharing).</p><p>We're going to be creating discussion threads per paper on Slack for you to ask questions that you'd like to have discussed or answered after the presentation. You can also ask questions for discussion anonymously through [this Google Form](https://forms.gle/Robqykue8PRBNXc69).</p>|
+|**01/31**|<p>Mid-term presentation schedules are out. Please find your project groups below (on either Feb.22 or Feb.24). If two classes are not enough, we will continue the presentation in the extra hour on Friday (Feb.25).</p>|
 
 
 ## Administrivia
@@ -80,8 +81,8 @@ The papers due for a review are marked with an **(R**)**.** Here is the review [
 |Feb 15 [T]|<p>Debugging</p><p></p>|<p>[Delta Debugging](https://www.st.cs.uni-saarland.de/publications/files/zeller-esec-1999.pdf) **(R)**</p><p>[Magpie](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/magpie-osdi.pdf)</p>|<p>[Paxos](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)</p><p>[Paxos for Human Beings](http://web.eecs.umich.edu/~barisk/teaching/eecs582/paxos-for-humans.pdf)</p>|
 |Feb 17 [Th]|<p>Fault</p><p>Tolerance</p>|<p>[Microreboot](https://www.usenix.org/legacy/event/osdi04/tech/full_papers/candea/candea.pdf)</p><p>[Byzantine Fault Tolerance](https://people.csail.mit.edu/alinush/6.824-spring-2015/papers/pbft.pdf) **(R)**</p>|[Error-free Multi-Valued Consensus](http://disc.ece.illinois.edu/publications/guanfeng-PODC2011.pdf)|
 |Feb 18 [F]|No class|***Work on Projects***||
-|Feb 22 [T]|<p>Projects</p><p></p>|***Mid-term Presentations***||
-|Feb 24 [Th]|Projects|***Mid-term Presentations***||
+|Feb 22 [T]|<p>Projects</p><p></p>|<p>***Mid-term Presentations***</p><p>(P2,P5,P6,P7,P9)</p>||
+|Feb 24 [Th]|Projects|<p>***Mid-term Presentations***</p><p>(P11,P12 (group1,2,3),P14)</p>||
 |Feb 25 [F]|Projects|***Mid-term Presentations (3150 DOW)***||
 |Mar 1 [T]|No class|***Break***||
 |Mar 3 [Th]|No class|***Break***||
