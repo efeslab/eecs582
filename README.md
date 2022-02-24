@@ -83,7 +83,7 @@ The papers due for a review are marked with an **(R**)**.** Here is the review [
 |Feb 18 [F]|No class|***Work on Projects***||
 |Feb 22 [T]|<p>Projects</p><p></p>|<p>***Mid-term Presentations***</p><p>(P2,P5,P6,P7,P9)</p>||
 |Feb 24 [Th]|Projects|<p>***Mid-term Presentations***</p><p>(P11,P12 (group1,2,3),P14)</p>||
-|Feb 25 [F]|Projects|***Mid-term Presentations (3150 DOW)***||
+|Feb 25 [F]|No class|***Work on Projects***||
 |Mar 1 [T]|No class|***Break***||
 |Mar 3 [Th]|No class|***Break***||
 |Mar 4 [F]|No class|***Break***||
