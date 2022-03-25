@@ -10,6 +10,7 @@
 |**01/09**|Please check [Project Availability](https://docs.google.com/spreadsheets/d/e/2PACX-1vQS5MSkzCGxqS8_PJkHxmm1hq97i609zl48RLsF0Os3BbQUX0vE0zDsZoXxAj_ovKFWtnFRd9tclrYF/pubhtml?gid=184304098&single=true), a project will be marked as "FULL" when enough (determined by the project supervisor) students signed up for it. Start talking to project supervisors and finding your teammates! Rember to email us with your teammates CCed to sign up for a project.|
 |**01/24**|<p>Please check the main course Slack channel (eecs582-winter22) for information on asking questions to be discussed after paper presentations.</p><p>We added a discussion slide template (with some tips on leading/participating in discussions), available [here](https://docs.google.com/presentation/d/1R2YPja3NSDXA97PNjX9AzB_ddS-YeaVoHBkkbKym6ZA/edit?usp=sharing).</p><p>We're going to be creating discussion threads per paper on Slack for you to ask questions that you'd like to have discussed or answered after the presentation. You can also ask questions for discussion anonymously through [this Google Form](https://forms.gle/Robqykue8PRBNXc69).</p>|
 |**01/31**|<p>Mid-term presentation schedules are out. Please find your project groups below (on either Feb.22 or Feb.24). If two classes are not enough, we will continue the presentation in the extra hour on Friday (Feb.25). The presentations are supposed to be a **10min talk** followed by a **5min Q&A**.</p>|
+|**03/25**|<p>Class on Mar.29 is rescheduled to Apr.14; Mar.31 is rescheduled to Apr.19. The paper review assignment of paper "Tensorflow" is changed to the "Ray". See the updated schedule below.</p>|
 
 
 ## Administrivia
@@ -44,14 +45,14 @@
 
 ### Project Milestones
 
-|     Date             |     Milestone                             |     Details                                                                                         |
-|----------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|     Jan   11/ASAP    |     Find   project partners               |     Find   2-3 like-minded students                                                                 |
-|     Jan   13         |     Contact   project supervisor/staff    |     Email   the supervising PhD students OR email EECS 582 staff with your group’s proposal       |
-|     Jan   21         |     Finalize   deliverables               |     After   regular back-and-forth   discussions with the project supervisors                       |
-|     Feb   22–25      |     Mid-semester   presentations          |     Define and motivate the problem, survey   related work, and form initial hypothesis and idea    |
-|     Apr   19         |     Video   presentations                 |     Record   a presentation of your findings                                                        |
-|     Apr   28         |     Research   paper                      |     Submit a project paper like the ones   we’ve read                                               |
+| Date          | Milestone                          | Details                                                      |
+| ------------- | ---------------------------------- | ------------------------------------------------------------ |
+| Jan   11/ASAP | Find   project partners            | Find 2-3 like-minded students                                |
+| Jan   13      | Contact   project supervisor/staff | Email the supervising PhD students OR email EECS 582 staff with your group’s proposal |
+| Jan   21      | Finalize   deliverables            | After regular back-and-forth discussions with the project supervisors |
+| Feb   22–25   | Mid-semester   presentations       | Define and motivate the problem, survey   related work, and form initial hypothesis and idea |
+| Apr   19      | Video   presentations              | Record   a presentation of your findings                     |
+| Apr   28      | Research   paper                   | Submit a project paper like the ones we’ve read              |
 
 ## Schedule
 
@@ -96,14 +97,14 @@ The papers due for a review are marked with an **(R**)**.** Here is the review [
 |Mar 22 [T]|<p>Testing and</p><p>Verification - 1</p>|<p>[Klee](https://llvm.org/pubs/2008-12-OSDI-KLEE.pdf) **(R)**</p><p>[Sel4: Formal verification of an OS Kernel](https://www.sigops.org/sosp/sosp09/papers/klein-sosp09.pdf) </p><p></p>|<p>[Therac 25: An engineering Disaster](http://www.bowdoin.edu/~allen/courses/cs260/readings/therac.pdf)</p><p>[Northeastern Blackout](https://en.wikipedia.org/wiki/Northeast_blackout_of_2003)</p><p>[A Few Billion LOC Later](https://web.stanford.edu/~engler/BLOC-coverity.pdf)</p>|
 |Mar 24 [Th]|<p>Testing and</p><p>Verification - 2</p>|<p>[Jaaru: Efficiently Model Checking Persistent Memory Programs](http://web.cs.ucla.edu/~harryxu/papers/jaaru-asplos21.pdf)</p><p>[Agamotto: How Persistent is your Persistent Memory Application?](https://www.usenix.org/conference/osdi20/presentation/neal) **(R)**</p>|<p>[Cross-Failure Bug Detection in Persistent Memory Programs](https://www.cs.virginia.edu/~smk9u/liu_xfd_asplos2020.pdf)</p><p>[Witcher: Systematic Crash Consistency Testing for Non-Volatile Memory Key-Value Stores](https://cosmoss-vt.github.io/pages/pubs/witcher-fu-sosp21.pdf)</p>|
 |Mar 25 [F]|No class|***Work on projects***||
-|Mar 29 [T]|<p>Machine</p><p>Learning</p><p>Systems</p>|<p>[T](https://ai.google/research/pubs/pub45381)[ensorFlow](https://ai.google/research/pubs/pub45381) **(R)**</p><p></p><p>[Ray: A Distributed Framework for Emerging AI Applications](https://www.usenix.org/system/files/osdi18-moritz.pdf)</p>|<p>[Machines That Think?](https://www.edge.org/response-detail/26200)</p><p>[The Great AI Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)</p><p>[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl-acm-org.proxy.lib.umich.edu/doi/pdf/10.1145/3442188.3445922)</p>|
-|Mar 31 [Th]|Rethinking the OS Design|<p>[Barrelfish](https://people.inf.ethz.ch/troscoe/pubs/sosp09-barrelfish.pdf) **(R)**</p><p>[Linux Scalability](https://pdos.csail.mit.edu/papers/linux:osdi10.pdf) </p>|[Scalable Commutativity Rule](https://people.csail.mit.edu/nickolai/papers/clements-sc.pdf)|
+|Mar 29 [T]|No class|***Work on projects***||
+|Mar 31 [Th]|No class|***Work on projects***||
 |Apr 1 [F]|No class|***Work on projects and final paper***||
 |Apr 5 [T]|<p>Heterogeneous</p><p>Systems</p>|<p>[Cascade](https://cs.stanford.edu/people/eschkufz/docs/asplos_19.pdf) **(R)**</p><p>[FIRRTL](https://aspire.eecs.berkeley.edu/wp/wp-content/uploads/2017/11/Reusability-is-FIRRTL-Ground-Izraelevitz.pdf)</p>|[Popcorn](http://www.ssrg.ece.vt.edu/papers/eurosys15.pdf)|
 |Apr 7 [Th]|Concurrency|<p>[Lamport Clocks](https://amturing.acm.org/p558-lamport.pdf)</p><p>[Learning From Mistakes](https://www.cs.columbia.edu/~junfeng/09fa-e6998/papers/concurrency-bugs.pdf) **(R)**</p>|[The Problem with Threads](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-1.pdf)|
 |Apr 8 [F]|No class|***Work on projects and final paper***||
 |Apr 12 [T]|<p>Atomicity &</p><p>Consistency</p>|<p>***Last (scheduled) day of class***</p><p>[Dynamo](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) **(R)**</p><p>[Optimistic Concurrency Control](https://www.eecs.harvard.edu/~htk/publication/1981-tods-kung-robinson.pdf)</p>|<p>[CAP Theorem](https://pdfs.semanticscholar.org/5015/8bc1a8a67295ab7bce0550886a9859000dc2.pdf)</p><p>[CAP Theorem Twelve Years Later](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)</p>|
-|Apr 14 [Th]|Flex Day|Catch-up if needed||
+|Apr 14 [Th]|<p>Machine</p><p>Learning</p><p>Systems</p>|<p>[T](https://ai.google/research/pubs/pub45381)[ensorFlow](https://ai.google/research/pubs/pub45381) </p><p><p>[Ray: A Distributed Framework for Emerging AI Applications](https://www.usenix.org/system/files/osdi18-moritz.pdf)**(R)**</p>|<p>[Machines That Think?](https://www.edge.org/response-detail/26200)</p><p>[The Great AI Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)</p><p>[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl-acm-org.proxy.lib.umich.edu/doi/pdf/10.1145/3442188.3445922)</p>|
 |Apr 15 [F]|No class|***Work on projects and final paper***||
-|Apr 19 [T]|Flex Day|<p></p><p>Catch-up if needed</p>||
+|Apr 19 [T]|Rethinking the OS Design|<p>[Barrelfish](https://people.inf.ethz.ch/troscoe/pubs/sosp09-barrelfish.pdf) **(R)**</p><p>[Linux Scalability](https://pdos.csail.mit.edu/papers/linux:osdi10.pdf) </p>|[Scalable Commutativity Rule](https://people.csail.mit.edu/nickolai/papers/clements-sc.pdf)|
 ||Apr 28 [Th]|**Final Paper Due**||
