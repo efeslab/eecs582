@@ -11,7 +11,7 @@
 |**01/24**|<p>Please check the main course Slack channel (eecs582-winter22) for information on asking questions to be discussed after paper presentations.</p><p>We added a discussion slide template (with some tips on leading/participating in discussions), available [here](https://docs.google.com/presentation/d/1R2YPja3NSDXA97PNjX9AzB_ddS-YeaVoHBkkbKym6ZA/edit?usp=sharing).</p><p>We're going to be creating discussion threads per paper on Slack for you to ask questions that you'd like to have discussed or answered after the presentation. You can also ask questions for discussion anonymously through [this Google Form](https://forms.gle/Robqykue8PRBNXc69).</p>|
 |**01/31**|<p>Mid-term presentation schedules are out. Please find your project groups below (on either Feb.22 or Feb.24). If two classes are not enough, we will continue the presentation in the extra hour on Friday (Feb.25). The presentations are supposed to be a **10min talk** followed by a **5min Q&A**.</p>|
 |**03/25**|<p>Class on Mar.29 is rescheduled to Apr.14; Mar.31 is rescheduled to Apr.19. The paper review assignment of paper "Tensorflow" is changed to the "Ray". See the updated schedule below.</p>|
-
+|**04/07**|<p>Final presentation due date rescheduled from Apr.19 to Apr.28. See the updated schedule below.</p>|
 
 ## Administrivia
 
@@ -51,7 +51,7 @@
 | Jan   13      | Contact   project supervisor/staff | Email the supervising PhD students OR email EECS 582 staff with your group’s proposal |
 | Jan   21      | Finalize   deliverables            | After regular back-and-forth discussions with the project supervisors |
 | Feb   22–25   | Mid-semester   presentations       | Define and motivate the problem, survey   related work, and form initial hypothesis and idea |
-| Apr   19      | Video   presentations              | Record   a presentation of your findings                     |
+| Apr   28      | Video   presentations              | Record   a presentation of your findings                     |
 | Apr   28      | Research   paper                   | Submit a project paper like the ones we’ve read              |
 
 ## Schedule
@@ -107,4 +107,4 @@ The papers due for a review are marked with an **(R**)**.** Here is the review [
 |Apr 14 [Th]|<p>Machine</p><p>Learning</p><p>Systems</p>|<p>[T](https://ai.google/research/pubs/pub45381)[ensorFlow](https://ai.google/research/pubs/pub45381) </p><p><p>[Ray: A Distributed Framework for Emerging AI Applications](https://www.usenix.org/system/files/osdi18-moritz.pdf)**(R)**</p>|<p>[Machines That Think?](https://www.edge.org/response-detail/26200)</p><p>[The Great AI Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)</p><p>[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl-acm-org.proxy.lib.umich.edu/doi/pdf/10.1145/3442188.3445922)</p>|
 |Apr 15 [F]|No class|***Work on projects and final paper***||
 |Apr 19 [T]|Rethinking the OS Design|<p>[Barrelfish](https://people.inf.ethz.ch/troscoe/pubs/sosp09-barrelfish.pdf) **(R)**</p><p>[Linux Scalability](https://pdos.csail.mit.edu/papers/linux:osdi10.pdf) </p>|[Scalable Commutativity Rule](https://people.csail.mit.edu/nickolai/papers/clements-sc.pdf)|
-||Apr 28 [Th]|**Final Paper Due**||
+||Apr 28 [Th]|**Final Paper and Presentation Due**||
